@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.counteiner{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    width: 55%; 
+    height: 100vh;
+}
+.aboutThecaffe{
+
+text-align: center;
+margin-bottom: 60px;
+margin-top: 20px;
+}
+.aboutThecaffe span{
+  background-color: black;  
+  color: white;
+  padding: 8px;
+  letter-spacing: 4px;
+}
+.Cafe{
+    color: #000;
+    line-height: 1.5;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.product{
+    background-color:#f1f1f1;
+    border-left: 6px solid #ccc;
+    padding: 20px;
+}
+.product2{
+    font-style: italic;
+    margin-bottom: 20px;
+}
+img{
+    margin-top: 20px;
+    width: 100%;
+}
+.b{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#eat{
+ background-color: rgb(67, 65, 65);
+ color: white
+}
+.top{
+    display: flex;
+    padding: 10px;
+    border-bottom: 2px solid gray;
+
+}
+.top p{
+    width: 50%;
+    text-align: center;
+}
+.tabble{
+    border: 2px solid gray;
+}
+.Bread{
+margin-top: 10px;
+margin-bottom: 10px;
+font-weight: 400;
+font-size: 18px;
+}
+.Assortment{
+
+    color: #757575;
+margin-bottom: 30px;
+}
+.bottom{
+    padding: 10px;
+}
+

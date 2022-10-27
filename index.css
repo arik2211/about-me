@@ -1,0 +1,103 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+.counteiner
+{
+   
+    height: 170vh;
+    display: flex;
+    justify-content: center;
+   
+}
+.main{
+    width: 80%;
+    height: 100vh;
+
+   
+}
+#about{
+font-size: 24px;
+color: #777;
+font-weight: 400;
+text-align: center;
+margin-bottom: 25px;
+}
+#photography{
+text-align: center;
+color: #777;
+font-style: italic;
+margin-bottom: 20px;
+}
+.fictional{
+line-height: 30px;
+color: #777;
+margin-bottom: 30px;
+
+}
+.myname{
+    display: flex;
+    margin-bottom: 20px;
+}
+.left, .right{
+padding: 20px
+}
+.right{
+    width: 45%;
+}
+#name{
+    text-align: center;
+    color: #777;
+    margin-bottom: 30px;
+}
+.left img{
+    opacity: 0.6;
+}
+.left img:hover{
+    opacity: 1;
+}
+.really{
+    text-align: center;
+    color: #777;
+    font-size: 18px;
+}
+.latter-space{
+    color: #777;
+    margin-bottom: 30;
+    margin-top: 15px;
+    letter-spacing: 10px;
+}
+.percent90{
+    background-color: lightgray;
+
+}
+.percent90 p{
+    width: 90%;
+    background-color: rgb(88, 88, 88);
+    text-align: center;
+    color: white;
+}
+.percent85{
+    background-color: lightgray;
+
+}
+.percent85 p{
+    width: 85%;
+    background-color: rgb(88, 88, 88);
+    text-align: center;
+    color: white;
+}
+.percent75{
+    background-color: lightgray;
+
+}
+.percent75 p{
+    width: 75%;
+    background-color: rgb(88, 88, 88);
+    text-align: center;
+    color: white;
+}
+
+    
